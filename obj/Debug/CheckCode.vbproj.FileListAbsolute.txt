@@ -1,0 +1,20 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\bin\Debug\CheckCode.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\bin\Debug\CheckCode.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\bin\Debug\CheckCode.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.vbproj.GenerateResource.Cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.xml
+C:\Users\Administrator\AppData\Local\Temporary Projects\CheckCode\obj\Debug\CheckCode.pdb
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.exe
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.xml
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.pdb
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Debug\CheckCode.exe
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Debug\CheckCode.pdb
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Debug\CheckCode.xml
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\ResolveAssemblyReference.cache
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.Form1.resources
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.Resources.resources
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Debug\CheckCode.vbproj.GenerateResource.Cache

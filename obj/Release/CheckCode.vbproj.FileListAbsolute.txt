@@ -1,0 +1,13 @@
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Release\CheckCode.exe
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Release\CheckCode.pdb
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\bin\Release\CheckCode.xml
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\ResolveAssemblyReference.cache
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.Form1.resources
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.Resources.resources
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.vbproj.GenerateResource.Cache
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.exe
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.xml
+E:\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.pdb
+E:\小米网盘\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.exe
+E:\小米网盘\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.xml
+E:\小米网盘\唐宗超文档\软件开发\青岛大学校园网自动登录器\青岛大学校园网自动登录器\CheckCode\CheckCode\obj\Release\CheckCode.pdb
